@@ -1,2 +1,2 @@
-# IMDB_Analysis Using PYTHON
-in this
+# IMDB_Analysis Using PYTHON (Exploratory Data Analysis)
+
