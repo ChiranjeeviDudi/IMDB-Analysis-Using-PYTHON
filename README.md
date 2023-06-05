@@ -1,6 +1,8 @@
 # IMDB_Analysis Using PYTHON (Exploratory Data Analysis)
 
-In this Project i have used IMDB Movies Dataset which i've got from the Kaggle platform
+In this Project i have used IMDB Movies Dataset which i've got from the Kaggle platform                                                                               
+
+OBJECTIVE : The main Objective of this project is to perform some statistical and Predictive analysis of IMDB movie dataset to draw some visualized insights analysis about the movies to provide a detailed overview of the movies. In this project using scatter plot i have used predictions on the change in the value of review that effects the Revenue.
                
 I have used PYTHON Language in building this project which includes some of the python libraries such as :
 1. PANDAS
